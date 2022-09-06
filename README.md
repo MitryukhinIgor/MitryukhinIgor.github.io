@@ -1,2 +1,2 @@
-# MitryukhinIgor.github.io
+# MitryukhinIgor
 Первый сайт
